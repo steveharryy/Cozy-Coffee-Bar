@@ -1,12 +1,55 @@
-# React + Vite
+# ☕ Cozy Coffee Bar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive coffee shop website built using **Vite**, **React**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Demo
 
-## Expanding the ESLint configuration
+Live preview: [Click here](#) <!-- You can update this with your GitHub Pages / Vercel / Netlify link later -->
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshots
+
+![Home Page](./screenshots/home.png)
+![Contact Page](./screenshots/contact.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚡ **Vite** – Super fast frontend build tool
+- ⚛️ **React** – Component-based JavaScript UI library
+- 🎨 **Tailwind CSS** – Utility-first CSS framework
+- 🧩 **Responsive Design** – Mobile-friendly layout
+
+---
+
+## 📂 Features
+
+- Clean and elegant UI
+- Fully responsive design
+- Smooth scroll & navigation
+- Contact form with validation
+- Simple and easy to customize
+
+---
+
+## 📁 Folder Structure
+
+```bash
+cozy-coffee-bar/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+├── .gitignore
+├── index.html
+├── tailwind.config.js
+├── postcss.config.js
+├── vite.config.js
+└── package.json
